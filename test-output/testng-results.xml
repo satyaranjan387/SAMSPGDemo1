@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-04T17:45:31 IST" name="PGCAFSuite" finished-at="2021-08-04T17:49:38 IST" duration-ms="246996">
+    <groups>
+    </groups>
+    <test started-at="2021-08-04T17:45:31 IST" name="ScenarioTesting" finished-at="2021-08-04T17:49:38 IST" duration-ms="246996">
+      <class name="com.PG.Tests.Anthropology">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:com.PG.Tests.Anthropology@793138bd]" started-at="2021-08-04T17:45:31 IST" name="Startup" finished-at="2021-08-04T17:45:34 IST" duration-ms="2789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="LoggingIn()[pri:0, instance:com.PG.Tests.Anthropology@793138bd]" started-at="2021-08-04T17:45:34 IST" name="LoggingIn" finished-at="2021-08-04T17:45:45 IST" duration-ms="10852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoggingIn -->
+        <test-method signature="AnthropologyWithAtleast45Percentage()[pri:1, instance:com.PG.Tests.Anthropology@793138bd]" started-at="2021-08-04T17:45:45 IST" name="AnthropologyWithAtleast45Percentage" finished-at="2021-08-04T17:48:07 IST" duration-ms="142300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AnthropologyWithAtleast45Percentage -->
+        <test-method signature="AnthropologyWithLessThan45Percentage()[pri:2, instance:com.PG.Tests.Anthropology@793138bd]" started-at="2021-08-04T17:48:07 IST" name="AnthropologyWithLessThan45Percentage" finished-at="2021-08-04T17:49:38 IST" duration-ms="90188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AnthropologyWithLessThan45Percentage -->
+        <test-method is-config="true" signature="QuitBrowser()[pri:0, instance:com.PG.Tests.Anthropology@793138bd]" started-at="2021-08-04T17:49:38 IST" name="QuitBrowser" finished-at="2021-08-04T17:49:38 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- com.PG.Tests.Anthropology -->
+    </test> <!-- ScenarioTesting -->
+  </suite> <!-- PGCAFSuite -->
+</testng-results>

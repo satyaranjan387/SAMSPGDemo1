@@ -1,0 +1,17 @@
+com\PG\objectRepository\PGCAFData.class
+com\PG\objectRepository\PGRegistration.class
+com\PG\Listener\ExtentFactory.class
+com\PG\Listener\ExtentReportNG.class
+com\PG\Tests\ApplyingCAFWithDiffernetExamType.class
+com\PG\Listener\TestListener.class
+com\PG\objectRepository\PGRegistrationNew.class
+com\PG\genericLibrary\Xls_AllMethods.class
+com\PG\objectRepository\BaseClass.class
+com\PG\browser\BrowserFactoryNew.class
+com\PG\objectRepository\ImageUpload.class
+com\PG\objectRepository\PGLoginNew.class
+com\PG\Tests\ApplyingCAFWithDifferentBoards.class
+com\PG\objectRepository\PGCAFNew.class
+com\PG\objectRepository\PGCAF.class
+com\PG\objectRepository\PGLogin.class
+com\PG\genericLibrary\constants.class
