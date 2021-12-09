@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PGCAFSuite" duration-ms="103604" started-at="2021-12-09T15:01:36 IST" finished-at="2021-12-09T15:03:20 IST">
+    <groups>
+    </groups>
+    <test name="ScenarioTesting" duration-ms="103604" started-at="2021-12-09T15:01:36 IST" finished-at="2021-12-09T15:03:20 IST">
+      <class name="com.PG.Tests.ApplyingCAFWithDiffernetExamType">
+        <test-method status="PASS" signature="Startup()[pri:0, instance:com.PG.Tests.ApplyingCAFWithDiffernetExamType@3738449f]" name="Startup" is-config="true" duration-ms="10922" started-at="2021-12-09T15:02:27 IST" finished-at="2021-12-09T15:02:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method status="PASS" signature="LoggingIn()[pri:0, instance:com.PG.Tests.ApplyingCAFWithDiffernetExamType@3738449f]" name="LoggingIn" duration-ms="11612" started-at="2021-12-09T15:02:38 IST" finished-at="2021-12-09T15:02:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoggingIn -->
+        <test-method status="PASS" signature="SubmittingCAFwithAnnualExam()[pri:1, instance:com.PG.Tests.ApplyingCAFWithDiffernetExamType@3738449f]" name="SubmittingCAFwithAnnualExam" duration-ms="18014" started-at="2021-12-09T15:02:49 IST" finished-at="2021-12-09T15:03:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmittingCAFwithAnnualExam -->
+        <test-method status="PASS" signature="SubmittingCAFwithSupplementaryExam()[pri:2, instance:com.PG.Tests.ApplyingCAFWithDiffernetExamType@3738449f]" name="SubmittingCAFwithSupplementaryExam" duration-ms="11814" started-at="2021-12-09T15:03:07 IST" finished-at="2021-12-09T15:03:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmittingCAFwithSupplementaryExam -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:com.PG.Tests.ApplyingCAFWithDiffernetExamType@3738449f]" name="QuitBrowser" is-config="true" duration-ms="676" started-at="2021-12-09T15:03:19 IST" finished-at="2021-12-09T15:03:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- com.PG.Tests.ApplyingCAFWithDiffernetExamType -->
+      <class name="com.PG.Tests.ApplyingCAFWithDifferentBoards">
+        <test-method status="PASS" signature="Startup()[pri:0, instance:com.PG.Tests.ApplyingCAFWithDifferentBoards@378542de]" name="Startup" is-config="true" duration-ms="7986" started-at="2021-12-09T15:01:37 IST" finished-at="2021-12-09T15:01:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method status="PASS" signature="LoggingIn()[pri:0, instance:com.PG.Tests.ApplyingCAFWithDifferentBoards@378542de]" name="LoggingIn" duration-ms="14740" started-at="2021-12-09T15:01:45 IST" finished-at="2021-12-09T15:01:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoggingIn -->
+        <test-method status="PASS" signature="SubmissionCAFWithOdishaBoard()[pri:1, instance:com.PG.Tests.ApplyingCAFWithDifferentBoards@378542de]" name="SubmissionCAFWithOdishaBoard" duration-ms="15104" started-at="2021-12-09T15:01:59 IST" finished-at="2021-12-09T15:02:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmissionCAFWithOdishaBoard -->
+        <test-method status="PASS" signature="SubmissionCAFWithNonOdishaBoard()[pri:2, instance:com.PG.Tests.ApplyingCAFWithDifferentBoards@378542de]" name="SubmissionCAFWithNonOdishaBoard" duration-ms="11820" started-at="2021-12-09T15:02:14 IST" finished-at="2021-12-09T15:02:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmissionCAFWithNonOdishaBoard -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:com.PG.Tests.ApplyingCAFWithDifferentBoards@378542de]" name="QuitBrowser" is-config="true" duration-ms="684" started-at="2021-12-09T15:02:26 IST" finished-at="2021-12-09T15:02:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- com.PG.Tests.ApplyingCAFWithDifferentBoards -->
+    </test> <!-- ScenarioTesting -->
+  </suite> <!-- PGCAFSuite -->
+</testng-results>
