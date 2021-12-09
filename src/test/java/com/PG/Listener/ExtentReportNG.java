@@ -29,7 +29,7 @@ public class ExtentReportNG {
 		
 		sparkReport.config().setDocumentTitle("Automation Report");
 		sparkReport.config().setTheme(Theme.DARK);
-		sparkReport.loadXMLConfig("D:\\SamsPG\\logoconfig.xml");
+		sparkReport.loadXMLConfig("D:\\SamsPGDemo\\logoconfig.xml");
 		//sparkReport.config().setReportName("Extent Report");
 		
 //		report.setSystemInfo("Executed on Environment:",System.getProperty(constants.url));
